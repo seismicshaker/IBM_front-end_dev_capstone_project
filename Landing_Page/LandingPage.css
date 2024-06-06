@@ -163,7 +163,8 @@ li {
     width: 200px;
     animation: blobani 8s infinite ease;
 }
-purple1 {
+
+.purple1 {
     background-color: #9570FF;
     position: absolute;
     top:0;
