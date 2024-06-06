@@ -20,7 +20,7 @@
     font-weight: 900;
 }
 .text-gradient {
-    background: linear-gradient(45deg,#2190FF 2.34%,#b673f8 100.78%);
+    background: linear-gradient(45deg,#9570FF 2.34%,#52ACFF 100.78%);
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -36,7 +36,7 @@
 .hero-section .button {
     padding: 0.7rem 2rem;
     border-radius: 25px;
-    background-color: #2190FF;
+    background-color: #9570FF;
     color: #fff;
     border: 1px solid transparent;
     width: 15%;
@@ -151,8 +151,8 @@ li {
     filter: blur(60px);
 }
 
-.blue {
-    background-color: #2937a392;
+.purple {
+    background-color: #9570FF;
     position: absolute;
     top:0;
     left: 0;
@@ -163,8 +163,8 @@ li {
     width: 200px;
     animation: blobani 8s infinite ease;
 }
-.blue1 {
-    background-color: #2937a392;
+purple1 {
+    background-color: #9570FF;
     position: absolute;
     top:0;
     left: 0;
